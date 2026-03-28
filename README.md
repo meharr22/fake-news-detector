@@ -22,6 +22,21 @@ This project is an AI-powered Fake News Detection system that classifies news ar
 - pandas, numpy  
 
 ---
+## 📁 Dataset
+
+The dataset used in this project is not included in the repository due to size limitations.
+
+You can download the dataset from the following source:
+
+👉 https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+
+### 📌 Instructions
+1. Download the dataset from the above link  
+2. Extract the files  
+3. Place them inside a `data/` folder in the project directory  
+
+Expected structure:
+
 
 ## 📂 Project Structure
 ```
@@ -38,7 +53,7 @@ fake_news_detector/
 │   ├── predict.py
 │   ├── preprocess.py
 │
-├── data/
+├
 ├── requirements.txt
 └── README.md
 ```
