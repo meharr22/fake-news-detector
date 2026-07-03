@@ -99,13 +99,12 @@ streamlit run app.py
 
 ---
 
-## 📊 Example Output
+## Example Output
 - FAKE NEWS (Confidence: 0.55)  
 - REAL NEWS (Confidence: 0.87)  
-
 ---
 
-## 🎯 Future Improvements
+##  Future Improvements
 - Upgrade to BERT / Transformers  
 - Add explainability (LIME/SHAP)  
 - Deploy on cloud  
@@ -113,10 +112,7 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
+## Author
 Mehar Arora  
 
 ---
-
-## ⭐ Note
-This project is for educational purposes and may not always provide accurate real-world predictions.
