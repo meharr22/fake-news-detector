@@ -1,11 +1,11 @@
-# 🛡️ Fake News Detection System
+#  Fake News Detection System
 
-## 📌 Overview
+## Overview
 This project is an AI-powered Fake News Detection system that classifies news articles as REAL or FAKE using Natural Language Processing (NLP) and Machine Learning techniques. It provides real-time predictions through a Streamlit web interface.
 
 ---
 
-## 🚀 Features
+## Features
 - Real-time news classification  
 - Confidence score for predictions  
 - Interactive Streamlit UI  
@@ -14,7 +14,7 @@ This project is an AI-powered Fake News Detection system that classifies news ar
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Python  
 - Scikit-learn  
 - Streamlit  
@@ -22,15 +22,15 @@ This project is an AI-powered Fake News Detection system that classifies news ar
 - pandas, numpy  
 
 ---
-## 📁 Dataset
+##  Dataset
 
 The dataset used in this project is not included in the repository due to size limitations.
 
 You can download the dataset from the following source:
 
-👉 https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 
-### 📌 Instructions
+###  Instructions
 1. Download the dataset from the above link  
 2. Extract the files  
 3. Place them inside a `data/` folder in the project directory  
@@ -38,7 +38,7 @@ You can download the dataset from the following source:
 Expected structure:
 
 
-## 📂 Project Structure
+##  Project Structure
 ```
 fake_news_detector/
 │
@@ -60,7 +60,7 @@ fake_news_detector/
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 1. Text is cleaned and preprocessed  
 2. TF-IDF converts text into numerical features  
 3. Logistic Regression model classifies news  
@@ -68,7 +68,7 @@ fake_news_detector/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ### 1. Clone the repository
 ```
